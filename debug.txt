@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+-- ViewContainer : MainPage (Page)
+	-> It's a page !
+
+
+
+-- ViewContainer : ProductsTable (Table)
+
+-- ViewContainer : CartPage (Page)
+	-> It's a page !
+
+
+
+-- ViewContainer : CartTable (Table)
+
+-- ViewContainer : RegisterPage (Page)
+	-> It's a page !
+
+
+
+

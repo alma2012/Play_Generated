@@ -1,0 +1,23 @@
+
+
+// Route for : Display MainPage
+GET	/main controllers.MainController.display_main_page()
+
+
+// Route for : Display RegisterPage
+GET	/register controllers.MainController.display_register_page()
+
+
+// Route for : Display CartPage
+GET	/cart controllers.MainController.display_cart_page()
+
+
+
+// Route for : Load Public Product List
+POST	/
+
+
+// Route for : Register User
+POST	/
+
+

@@ -1,0 +1,27 @@
+
+package controllers;
+
+import play.mvc.Controller;
+import play.mvc.Result;
+
+public class MainController extends Controller {
+	
+	public static Result display_main_page() {
+		return ok( views.html.MainPage.render() );
+	}
+	
+	
+	
+	public static Result display_register_page() {
+		return ok( views.html.RegisterPage.render() );
+	}
+	
+	
+	
+	public static Result display_cart_page() {
+		return ok( views.html.CartPage.render() );
+	}
+	
+	
+};
+
